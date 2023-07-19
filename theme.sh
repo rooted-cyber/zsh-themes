@@ -22,3 +22,4 @@
 	*)tha ;;
 	esac
 	}
+thi
