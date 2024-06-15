@@ -1,3 +1,4 @@
+alias venv='python3 -m venv a;source a/b*/a*e'
 alias a='apt install'
 alias p='python'
 alias p2='python2'
