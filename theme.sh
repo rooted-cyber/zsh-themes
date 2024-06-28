@@ -1,8 +1,8 @@
 	thi() {
 	apt install zsh -y
 	cd ~
-	mkdir Rootedcyber
-	cd Rootedcyber
+	mkdir .Rootedcyber
+	cd .Rootedcyber
 	wget -q https://github.com/rooted-cyber/zsh-themes/raw/main/short.sh
 	git clone https://github.com/zsh-users/zsh-autosuggestions
 	git clone https://github.com/zsh-users/zsh-syntax-highlighting
