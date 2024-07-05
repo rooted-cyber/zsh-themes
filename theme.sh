@@ -9,6 +9,7 @@
 	git clone https://github.com/ohmyzsh/ohmyzsh ~/.oh-my-zsh
 	wget -q https://raw.githubusercontent.com/rooted-cyber/Zsh-files/main/theme2.sh
 	wget -q https://github.com/rooted-cyber/Zsh-files/raw/main/ab
+	wget -q https://github.com/rooted-cyber/Zsh-files/raw/main/dl.sh
  chmod 700 -R *
 	cd ~
 	wget -q https://raw.githubusercontent.com/rooted-cyber/Zsh-files/main/.zshrc
